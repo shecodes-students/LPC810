@@ -3,6 +3,7 @@ build/obj
 *.o
 *.elf
 *.hex
+.bin
 
 .project
 .cproject
